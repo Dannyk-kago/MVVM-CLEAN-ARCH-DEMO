@@ -21,7 +21,7 @@ Retrieve Data from an API using MVVM Clean Architecture and Jetpack Compose. It 
 
 ### Image
 
-* [Coil](https://github.com/coil-kt/coil) An image loading and caching library for Android focused on smooth scrolling.
+* [Coil](https://github.com/coil-kt/coil) An image loading library.
 
 ### Coroutines
 
